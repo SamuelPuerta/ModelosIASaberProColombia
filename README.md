@@ -1,6 +1,10 @@
 # **PROYECTO KAGGLE - Pruebas Saber Pro Colombia**
 
-Exploración de tablas de datos sobre el rendimiento de los estudiantes en las pruebas Saber Pro.
+**Entrega 1 :** Exploración de tablas de datos sobre el rendimiento de los estudiantes en las pruebas Saber Pro.
+
+**Entrega 2 :** Preprocesado y limpieza de la tabla de datos train.csv sobre el rendimiento de los estudiantes en las pruebas Saber Pro.
+
+**Video Youtube Entrega 2 :** https://www.youtube.com/watch?v=LxbwzLV-yLQ
 
 ## Materia: Modelos 1
 ### **Hecho por:**
